@@ -97,7 +97,7 @@ SKODA 305 $VERSION — $2
 A minimal Scorched Earth clone on the WWI Isonzo Front:
 the Skoda 30.5 cm M.11 siege mortar against the Obice da 305, in VGA
 320x200. One player against the computer, or two on one machine.
-Source code: https://github.com/b0realis/Skoda305
+Source code: https://github.com/carrollallenrobin/Skoda305
 
 START
 $3

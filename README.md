@@ -11,13 +11,12 @@ features, maximal fun. Official title: **Skoda 305**.
 
 ## Download
 
-Ready-to-run packages are on the
-[Releases page](https://github.com/b0realis/Skoda305/releases):
-**Linux x86-64**, **Raspberry Pi 5** (64-bit ARM, OpenGL ES 3),
-**Windows**, **macOS** (universal, unsigned) and a **web** build (the zip
-for itch.io). Unpack and run; each package has a README.txt with the
-controls. Build them yourself with `dist/package_release.sh` (Godot 4.7
-and its export templates).
+This repository does not publish release packages. Build them locally
+with `dist/package_release.sh` (Godot 4.7 and its export templates).
+The script writes **Linux x86-64**, **Raspberry Pi 5** (64-bit ARM,
+OpenGL ES 3), **Windows**, **macOS** (universal, unsigned) and a **web**
+build (the zip for itch.io) under `build/`. Unpack and run; each package
+has a README.txt with the controls.
 
 ## Run
 
